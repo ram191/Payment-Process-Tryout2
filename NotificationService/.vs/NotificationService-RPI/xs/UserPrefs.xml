@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{AFEFFF2C-65A4-45B5-B4DF-E8C887350D59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotificationService/appsettings.json">
+    <Files>
+      <File FileName="NotificationService/Program.cs" Line="31" Column="1" />
+      <File FileName="NotificationService/Controllers/NotificationController.cs" />
+      <File FileName="NotificationService/Application/Commands/PostNotificationCommandHandler.cs" Line="77" Column="47" />
+      <File FileName="NotificationService/Startup.cs" Line="101" Column="22" />
+      <File FileName="NotificationService/appsettings.json" Line="14" Column="1" />
+      <File FileName="NotificationService/Properties/launchSettings.json" Line="21" Column="2" />
+      <File FileName="NotificationService/Application/Commands/PutNotificationCommandHandler.cs" />
+      <File FileName="NotificationService/Model/NotificationLogs.cs" />
+      <File FileName="NotificationService/Model/NotificationContext.cs" />
+      <File FileName="NotificationService/Model/Users.cs" />
+      <File FileName="NotificationService/Model/Notification.cs" />
+      <File FileName="NotificationService/Model/BaseDTO.cs" />
+      <File FileName="../../../.nuget/packages/hangfire/1.7.9/readme.txt" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationByIdDTO.cs" Line="1" Column="1" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationByIdHandler.cs" Line="70" Column="29" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationsHandler.cs" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationsWLogsHandler.cs" Line="39" Column="38" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationsWLogsDTO.cs" />
+      <File FileName="NotificationService/Application/NotificationData.cs" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationsWLogsQuery.cs" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationByIdQuery.cs" Line="8" Column="9" />
+      <File FileName="NotificationService/Migrations/20200324025456_InitialCreate.cs" />
+      <File FileName="NotificationService/Application/Commands/PutNotificationCommand.cs" />
+      <File FileName="NotificationService/NotificationService.csproj" />
+      <File FileName="NotificationService/Application/Queries/GetNotificationsDTO.cs" />
+      <File FileName="NotificationService/Application/Commands/PostNotificationCommand.cs" Line="21" Column="6" />
+      <File FileName="NotificationService/Application/Commands/CommandReturnData.cs" />
+      <File FileName="NotificationService/Application/Commands/DeleteNotificationCommand.cs" Line="1" Column="1" />
+      <File FileName="NotificationService/Application/Commands/DeleteNotificationCommandHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotificationService-RPI" expanded="True">
+            <Node name="NotificationService" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="Commands" expanded="True" />
+                <Node name="Queries" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NotificationService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

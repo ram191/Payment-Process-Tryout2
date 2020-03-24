@@ -5,7 +5,7 @@ namespace PaymentService.Model
     {
         public int Id { get; set; }
         public int Order_id { get; set; }
-        public int Transaction_id { get; set; }
+        public string Transaction_id { get; set; }
         public string Payment_type { get; set; }
         public string Gross_amount { get; set; }
         public string Transaction_time { get; set; }
